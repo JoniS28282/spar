@@ -1,2 +1,0 @@
-# spar
-Website for Spar
